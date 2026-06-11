@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I am a systems-minded **Full-Stack Engineer** with
 * **Tech Stack:** Angular, TypeScript, Express.js, Node.js, MySQL
 * **Impact:** Developed a cross-platform transaction engine managing complex budgeting algorithms, multi-tier category matrices, and timeline simulations. Programmed secure cryptographic authentication protocols alongside custom mapping pipelines for high-integrity, seamless CSV data import and export capabilities.
 
-#### Commercial SaaS Feature Deployment (Great Vantage Sdn Bhd)
+#### Commercial SaaS Feature Deployment (Past Internship)
 * **Tech Stack:** Django, Vue.js, Quasar, AWS (S3, CloudWatch)
 * **Impact:** Contributed full-stack feature releases across 3 core enterprise SaaS modules. Developed high-efficiency, in-memory document processing services utilizing AWS S3 to eliminate disk I/O overhead. Assisted engineering teams in designing and deploying reliable Excel/CSV data import architectures for bulk data uploads.
 
@@ -41,19 +41,3 @@ I heavily prioritize **clean architecture, Domain-Driven Design (DDD), and stric
 * 📧 **Email:** [auyongfai@gmail.com](mailto:auyongfai@gmail.com)
 * 🌐 **Based in:** Selangor, Malaysia
 
-
-
-<!--
-**KaydenAu/KaydenAu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
