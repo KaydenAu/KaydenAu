@@ -37,7 +37,7 @@ I heavily prioritize **clean architecture, Domain-Driven Design (DDD), and stric
 
 ### Connect with Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/auyongfai1108](https://www.linkedin.com/in/auyongfai1108/)
-* 📧 **Email:** [auyongfai@gmail.com](mailto:auyongfai@gmail.com)
+* 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/auyongfai1108/)
+* 📧 **Email:** [Email](mailto:auyongfai@gmail.com)
 * 🌐 **Based in:** Selangor, Malaysia
 
